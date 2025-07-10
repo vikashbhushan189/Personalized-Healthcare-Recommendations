@@ -121,6 +121,6 @@ This project successfully developed a personalized healthcare recommendation sys
 
 ## 🤝 Contribution
 
-This project was developed by [Your Name].
+This project was developed by Vikash Bhushan.
 
 ---
