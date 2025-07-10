@@ -94,8 +94,8 @@ To make this model interactive and demonstrate its potential for practical use, 
     4.  Run: `streamlit run app.py`
 
 **Screenshot of the Streamlit App:**
-*(Add a screenshot of your deployed Streamlit app here for a powerful visual demonstration!)*
-![Streamlit Dashboard Screenshot](path/to/your/streamlit_screenshot.png)
+
+![Streamlit Dashboard Screenshot](streamlit_screenshot.png)
 
 ## 🎯 Conclusion & Implications
 
