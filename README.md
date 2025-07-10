@@ -20,8 +20,8 @@ The dataset used in this project comprises **748 entries** and **5 columns**:
 - `Time`: *(Describe what Time represents, e.g., total duration patient has been engaged, or cumulative time units)*
 - `Class`: The target variable, representing different recommendation types or health outcomes. In this project, `Class 0` (No action needed) and `Class 1` (Consult a professional).
 
-*(If the dataset is publicly available, provide a direct link to it or a source. If it was from an internal source, you can state that. e.g.,)*
-**Source:** [Click here to download data set - _Replace with actual download link or dataset name/origin_]
+
+**Source:** [Click here to download data set - (https://www.kaggle.com/datasets/mahmudulhaqueshawon/blood-dataset/data)_]
 
 ## 🚀 Project Steps & Highlights
 
